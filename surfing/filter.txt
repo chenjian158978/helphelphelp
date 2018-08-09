@@ -1,0 +1,53 @@
+! Google
+||google.com
+||youtube.com
+||gstatic.com
+||googleusercontent.com
+||ytimg.com
+||ggpht.com
+||mail.google.com
+||analytics.google.com
+
+! Stack Overflow
+||stackoverflow.com
+
+! 维基百科
+||wikipedia.org
+
+! facebook
+||facebook.com
+
+! twitter
+||twitter.com
+
+! W3Schools
+||w3schools.com
+
+! GitHub
+||github.com
+
+! VpnTech
+||vtrhome.net
+
+! 软矿
+||rkdot.com
+
+! 开发者工具
+||cleancss.com
+
+! 英文缩写
+||abbreviations.com
+
+! Java例子的好地方
+||mkyong.com
+
+! Apache Org
+||apache.org
+
+! hibernate
+||hibernate.org
+
+! Web 依赖
+||googleapis.com
+||pornhub.com
+||vtrspeed.com
