@@ -13,6 +13,7 @@
 
 ! 维基百科
 ||wikipedia.org
+||zh.wikipedia.org
 
 ! facebook
 ||facebook.com
@@ -46,6 +47,10 @@
 
 ! hibernate
 ||hibernate.org
+
+! Blog
+||disqus.com
+||o-my-chenjian.com
 
 ! Web 依赖
 ||googleapis.com
