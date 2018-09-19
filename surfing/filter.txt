@@ -7,6 +7,8 @@
 ||ggpht.com
 ||mail.google.com
 ||analytics.google.com
+||map.google.com
+||gstatic.com
 
 ! Stack Overflow
 ||stackoverflow.com
@@ -48,11 +50,17 @@
 ! hibernate
 ||hibernate.org
 
+! Film
+||subhd.com
+
 ! Blog
 ||disqus.com
 ||o-my-chenjian.com
+||pixabay.com
 
 ! Web 依赖
 ||googleapis.com
 ||pornhub.com
 ||vtrspeed.com
+||instagram.com
+||konachan.com/
