@@ -9,6 +9,7 @@
 ||analytics.google.com
 ||map.google.com
 ||gstatic.com
+||bobdylan.com
 
 ! Stack Overflow
 ||stackoverflow.com
@@ -63,4 +64,5 @@
 ||pornhub.com
 ||vtrspeed.com
 ||instagram.com
-||konachan.com/
+||konachan.com
+||pixabay.com
